@@ -1,0 +1,35 @@
+_repo: La-Pol-tica-de-los-Estados-Unidos-en-el-Continente-Americano_45508
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45508-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cárdenas y Echarte, Raúl de
+    aliases:
+    - Cárdenas, Raúl de
+    - Echarte, Raúl de Cárdenas y
+    - De Cárdenas y Echarte, Raúl
+    - Cardenas y Echarte, Raul de
+    birthdate: 1884
+    deathdate: 1979
+    gutenberg_agent_id: '43323'
+    url: http://www.gutenberg.org/2009/agents/43323
+description: ''
+gutenberg_issued: '2014-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45508'
+  lccn: '22013273'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- Latin America'
+- !lcsh 'United States -- Territorial expansion'
+- !lcc 'E151'
+- !lcsh 'Latin America -- Foreign relations -- United States'
+- !lcsh 'Monroe doctrine'
+title: La Política de los Estados Unidos en el Continente Americano
+url: http://www.gutenberg.org/ebooks/45508
